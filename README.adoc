@@ -1,6 +1,10 @@
 mvn clear => nettoie le terminal
+
 mvn compile => compile le programme, créer les fichiers .class
+
 mvn package => creer les fichiers executables
+
 mvn java -jar target/nomFichier => permet d'executer le programme
+
 mvn javdoc:javadoc => générer javadoc
 
